@@ -3,7 +3,7 @@
 <div class="container-fluid bg-light d-none d-lg-block">
         <div class="row align-items-center top-bar">
             <div class="col-lg-3 col-md-12 text-center text-lg-start">
-                <a href="http://plumbrez.test/" class="navbar-brand m-0 p-0">
+                <a href="http://plumberz3.test/" class="navbar-brand m-0 p-0">
                     <h1 class="text-primary m-0">Plumberz</h1>
                 </a>
             </div>
@@ -39,19 +39,19 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav me-auto">
-                    <a href="http://plumbrez.test/" class="nav-item nav-link active">Home</a>
-                    <a href="" class="nav-item nav-link">About</a>
-                    <a href="" class="nav-item nav-link">Services</a>
+                    <a href="http://plumberz3.test/" class="nav-item nav-link active">Home</a>
+                    <a href="http://plumberz3.test/about" class="nav-item nav-link">About</a>
+                    <a href="http://plumberz3.test/service" class="nav-item nav-link">Services</a>
                     <div class="nav-item dropdown">
                         <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu fade-up m-0">
-                            <a href="" class="dropdown-item">Booking</a>
-                            <a href="" class="dropdown-item">Technicians</a>
-                            <a href="" class="dropdown-item">Testimonial</a>
+                            <a href="http://plumberz3.test/booking" class="dropdown-item">Booking</a>
+                            <a href="http://plumberz3.test/team" class="dropdown-item">Technicians</a>
+                            <a href="http://plumberz3.test/testimonial" class="dropdown-item">Testimonial</a>
                             <a href="" class="dropdown-item">404 Page</a>
                         </div>
                     </div>
-                    <a href="#" class="nav-item nav-link">Contact</a>
+                    <a href="http://plumberz3.test/contact" class="nav-item nav-link">Contact</a>
                 </div>
                 <div class="mt-4 mt-lg-0 me-lg-n4 py-3 px-4 bg-primary d-flex align-items-center">
                     <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 45px; height: 45px;">
